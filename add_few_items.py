@@ -1,4 +1,4 @@
-from os import name
+from os import names
 import sqlite3
 import random
 
